@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ssnaip8e
 - 👀 I’m interested in Sports, music, good books...
-- 🌱 I’m currently learning in HTML/CSS to achieve IT Programming.
+- 🌱 I'm currently studying HTML/CSS to reach the Full-stek direction in IT programming
 - 💞️ I’m looking to collaborate on in good programming groups and English language clubs.
-- 📫 How to reach me by mail only KurtsouKiryl@outlook.com
+- 📫 Contact me here => KurtsouKiryl@outlook.com
 
 <!---
 ssnaip8e/ssnaip8e is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
