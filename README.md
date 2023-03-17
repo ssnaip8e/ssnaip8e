@@ -25,6 +25,10 @@
 > Изучил документацию по нему, опробовал и мне понравился он.   Быстро верстается, уже адаптивный под мобильный размер.   
 > В ближайшее время в планах опробовать популярные фреймворки на верстке.
    
+- 07.03.2023
+> Небольшое знакомство с Node.js
+> Интересно, но сложно. 
+   
 <!---
 ssnaip8e/ssnaip8e is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
