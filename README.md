@@ -4,9 +4,9 @@
 
 ## Skill
 + HTML
-+ CSS/LESS
-+ Figma
-+ Git
++ CSS/LESS/SASS
++ Figma/GIMP
++ Git/GitHub
 
 ## Немного о себе или Мини-блог
 
