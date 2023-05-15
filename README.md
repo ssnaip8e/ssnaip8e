@@ -4,7 +4,7 @@
 
 ## Skill
 + HTML
-+ CSS/LESS/SASS
++ CSS/LESS
 + Figma/GIMP
 + Git/GitHub
 
