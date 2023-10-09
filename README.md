@@ -3,8 +3,8 @@
 - 📫 Связаться со мной можно здесь => KurtsouKiryl@outlook.com
 
 ## Skill
-+ HTML
-+ CSS/LESS
++ HTML/Pug
++ CSS/Less/Scss/Stylus
 + Figma/GIMP
 + Git/GitHub
 
