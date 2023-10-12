@@ -3,10 +3,11 @@
 - 📫 Связаться со мной можно здесь => KurtsouKiryl@outlook.com
 
 ## Skill
-+ HTML/Pug
-+ CSS/Less/Scss/Stylus
++ HTML/PUG
++ CSS/SCSS/STYLUS
 + Figma/GIMP
 + Git/GitHub
++ Photoshop
 
 ## Немного о себе или Мини-блог
 
