@@ -8,6 +8,7 @@
 + Figma/GIMP
 + Git/GitHub
 + Photoshop
++ Markdawn
 
 ## Немного о себе или Мини-блог
 
