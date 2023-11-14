@@ -10,11 +10,12 @@
 
 ## Навыки
 + HTML
-  + Pug (templating tool)
+  + [x] Pug (templating tool)
 + CSS
-  + Stylus (preprocessor)
-  + Sass (preprocessor)
-  + Skeleton.css (framework)
+  + [x] Stylus (preprocessor)
+  + [ ] Sass (preprocessor)
+  + [x] Skeleton.css (framework)
+  + [ ] Materialize.css (framework)
 + Git
 + Figma
 
