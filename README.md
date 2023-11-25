@@ -9,17 +9,17 @@
 
 
 ## Навыки
-+ [x] HTML
++ HTML
   + [ ] Pug (templating tool)
-+ [x] CSS
++ CSS
   + [ ] Stylus (preprocessor)
   + [ ] Sass (preprocessor)
   + [ ] Skeleton.css (framework)
   + [ ] Materialize.css (framework)
   + [ ] Tailwind.css (framework)
-+ [x] Git
++ Git
   + [x] GitHub
-+ [x] Figma
++ Figma
 
 
 ## Галерея
