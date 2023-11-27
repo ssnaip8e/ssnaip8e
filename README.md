@@ -13,10 +13,7 @@
   + [ ] Pug (templating tool)
 + CSS
   + [ ] Stylus (preprocessor)
-  + [ ] Sass (preprocessor)
-  + [ ] Skeleton.css (framework)
   + [ ] Materialize.css (framework)
-  + [ ] Tailwind.css (framework)
 + Git
   + [x] GitHub
 + Figma
