@@ -12,6 +12,8 @@
 * HTML
   * Pug (templating tool)
 * CSS
+  * Stylus (preprocessor)
+  * Sass (preprocessor)
 * Git
   * GitHub
 * Figma
