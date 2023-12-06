@@ -22,6 +22,8 @@
 ## Контакты / Contacts
 📫 Связаться со мной можно [по почте](https://KurtsouKiryl@outlook.com)
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1000&random=false&width=435&lines=The+five+boxing+wizards+jump+quickly)](https://git.io/typing-svg)
+
 
 
 
