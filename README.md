@@ -9,14 +9,14 @@
 
 
 ## Навыки / Skills
-+ HTML
-  + [ ] ![Pug](https://img.shields.io/badge/dynamic/pug) (templating tool)
-+ CSS
-  + [ ] Stylus (preprocessor)
-  + [ ] Sass (preprocessor)
-+ Git
-  + [x] GitHub
-+ Figma
+* HTML
+  * Pug (templating tool)
+* CSS
+  * Stylus (preprocessor)
+  * Sass (preprocessor)
+* Git
+  * GitHub
+* Figma
 
   
 ## Контакты / Contacts
