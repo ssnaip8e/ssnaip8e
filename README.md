@@ -14,9 +14,9 @@
   * Markdown
   * CSS
 * Инструменты / Tools
-  * Pug (templating tool > HTML)
-  * Stylus (preprocessor > CSS)
-  * Sass (preprocessor > CSS)
+  * Pug (templating tool)
+  * Stylus (preprocessor)
+  * Sass (preprocessor)
   * Git
   * Figma
     
