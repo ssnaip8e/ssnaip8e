@@ -18,6 +18,7 @@
   * Sass (preprocessor)
   * Git
   * Figma
+  * Pixso
     
   
 ## Контакты / Contacts
