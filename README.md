@@ -17,7 +17,6 @@
 * Инструменты / Tools
   * Pug (templating tool)
   * Less (preprocessor)
-  * Stylus (preprocessor)
   * Git
   * Figma
   * Pixso
