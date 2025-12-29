@@ -14,6 +14,7 @@
   * HTML
   * Markdown
   * CSS
+  * Python
 * Инструменты / Tools
   * Pug (templating tool)
   * Less (preprocessor)
